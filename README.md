@@ -1,4 +1,4 @@
-# qraphql-backend
+# GraphQL-backend
 
 > Simple example of a dockerized GraphQL/Mongo app
 
